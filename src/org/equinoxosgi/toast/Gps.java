@@ -2,15 +2,15 @@ package org.equinoxosgi.toast;
 
 public class Gps {
 	public int getHeading(){
-		return 90;
+		return 90;//90度（东）
 	}
 	public int getLatitude(){
-		return 3776999;
+		return 3776999;// 37.769999 N
 	}
 	public int getLongitude(){
-		return -12244694;
+		return -12244694;//122.44694 W
 	}
 	public int getSpeed(){
-		return 50;
+		return 50;//50千米/小时
 	}
 }
