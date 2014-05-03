@@ -4,6 +4,11 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
+/**
+ * °²È«Æø
+ * @author bbfking
+ *
+ */
 public class Airbag {
 	private List listeners;
 	public Airbag(){
