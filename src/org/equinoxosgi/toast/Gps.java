@@ -2,7 +2,7 @@ package org.equinoxosgi.toast;
 
 public class Gps {
 	public int getHeading(){
-		return 90;//90¶È£¨¶«£©
+		return 90;//90åº¦
 	}
 	public int getLatitude(){
 		return 3776999;// 37.769999 N
@@ -11,6 +11,6 @@ public class Gps {
 		return -12244694;//122.44694 W
 	}
 	public int getSpeed(){
-		return 50;//50Ç§Ã×/Ğ¡Ê±
+		return 50;//50å…¬é‡Œ/å°æ—¶
 	}
 }
