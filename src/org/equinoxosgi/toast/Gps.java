@@ -16,6 +16,6 @@ public class Gps {
 		return -12244694;//122.44694 W
 	}
 	public int getSpeed(){
-		return 50;//50
+		return 50;//50公里/小时
 	}
 }
